@@ -115,5 +115,3 @@ Currently, distance is measured from the center of a ZIP code, though using the 
 actual location would make the 25-mile radius even more accurate.
 
 The provider data only covers Chicago and its suburbs. I'd scale this to more regions in the future. 
-
-https://dispatchagent-ui.vercel.app/
